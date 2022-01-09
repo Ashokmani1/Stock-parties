@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "stockparties"
+  },
+  "targets": {
+    "stockparties": {
+      "hosting": {
+        "my-app": [
+          "stockparties"
+        ]
+      }
+    }
+  }
+}
